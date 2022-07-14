@@ -111,23 +111,23 @@ y muchos más..
 
 Sobre todo, para ejecutar este proyecto debe tener instalado un servidor virtual, es decir , [**XAMPP**](https://www.apachefriends.org/download_success.html) en su PC. **Ultimate Facebook Clone Social Network Platform** en PHP y MySQL con código fuente se puede descargar gratis,
 
-*Siga los siguientes pasos después de iniciar Apache y MySQL en XAMPP:*
+**Siga los siguientes pasos después de iniciar Apache y MySQL en XAMPP:**
     
-* **1er paso** : en primer lugar, extraiga el archivo*
-* **2do paso**: después de eso, copie la carpeta principal del proyecto*
-* **3er paso**: entonces, debe pegar en xampp/htdocs/*
+* **1º Paso** : en primer lugar, extraiga el archivo
+* **2º Paso**: después de eso, copie la carpeta principal del proyecto
+* **3º Paso**: entonces, debe pegar en xampp/htdocs/
     
-* **Además, ahora conectando la base de datos***
+* **Además, ahora conectando la base de datos**
     
-* **4to paso**: Entonces, por ahora, abra un navegador y vaya a la URL “http://localhost/phpmyadmin/”*
-* **5to paso**: Después de eso, haga clic en la pestaña de bases de datos*
-* **6to paso**: Entonces, cree una base de datos nombrando “ social ” y luego haga clic en la pestaña de importación*
-* **Paso 7**: Ciertamente, haga clic en buscar archivo y seleccione el archivo " social " que se encuentra dentro de la carpeta "db"*
-* **Paso 8**: Mientras tanto, haga clic en el botón Ir.*
+* **4º Paso**: Entonces, por ahora, abra un navegador y vaya a la URL “http://localhost/phpmyadmin/”
+* **5º Paso**: Después de eso, haga clic en la pestaña de bases de datos*
+* **6º Paso**: Entonces, cree una base de datos nombrando “ social ” y luego haga clic en la pestaña de importación
+* **7º Paso**: Ciertamente, haga clic en buscar archivo y seleccione el archivo " social " que se encuentra dentro de la carpeta "db"
+* **8º Paso**: Mientras tanto, haga clic en el botón Ir.
 
 * **Después de crear la base de datos ,***
     
-* **9º Paso**: Abra un navegador web y navegue por el proyecto. Por ejemplo, [ http://localhost/]*
+* **9º Paso**: Abra un navegador web y navegue por el proyecto. Por ejemplo, [ http://localhost/]
   
   </details>
   
