@@ -1,7 +1,7 @@
 ## 🇪🇸 Datos importantes de leer
 
 <details>
-  <summary>Click to para ver</summary>
+  <summary>Click para ver</summary>
   
 # Plataforma de red social de clones de Facebook definitiva con código fuente de PHP
   
@@ -14,8 +14,8 @@ WoWonder es rápido, seguro y se actualizará regularmente.
 
 # Características de la plataforma de red social Ultimate Facebook Clone
 
-<details>
-  <summary># Interfaz</summary>
+# <details>
+  <summary>Interfaz</summary>
 
 * **Sistema de caché de alto rendimiento y alto nivel**: lo n.º 1 que debe estar disponible en cualquier sitio web de red social, ¡The Speed! ¡Acelere su sitio web con nuestro sistema de caché, actívelo y el sitio web puede manejar más de 1 millón de usuarios!
 
