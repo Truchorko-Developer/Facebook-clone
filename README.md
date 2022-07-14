@@ -144,3 +144,9 @@ Sobre todo, para ejecutar este proyecto debe tener instalado un servidor virtual
   
   
   </details>
+
+
+<p align="center"><img width="80%" src="https://cdn.discordapp.com/attachments/968218679617663056/997268044386668616/unknown.png"/></p>
+<p align="center"><img width="80%" src="https://cdn.discordapp.com/attachments/968218679617663056/997268044747386923/unknown.png"/></p>
+<p align="center"><img width="80%" src="https://cdn.discordapp.com/attachments/968218679617663056/997268044118237234/unknown.png"/></p>
+<p align="center"><img width="80%" src="https://cdn.discordapp.com/attachments/968218679617663056/997268043807866921/unknown.png"/></p>
