@@ -1,4 +1,4 @@
-## 🇪🇸 Datos importantes de leer
+## 🇪🇸 Version Español de instalacion y caracteristicas 👤❤
 
 <details>
   <summary>Click para ver</summary>
@@ -132,8 +132,11 @@ Sobre todo, para ejecutar este proyecto debe tener instalado un servidor virtual
   </details>
   
   </details>
+  
+  
+  
 
-## 🇺🇲 Important facts to read
+## 🇺🇲 English version of installation and characteristics 👤❤
 
 <details>
   <summary>Click to expand</summary>
