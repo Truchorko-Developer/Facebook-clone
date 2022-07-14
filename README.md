@@ -114,29 +114,20 @@ Sobre todo, para ejecutar este proyecto debe tener instalado un servidor virtual
 *Siga los siguientes pasos después de iniciar Apache y MySQL en XAMPP:*
     
     
-***1er paso** : en primer lugar, extraiga el archivo*
-
+    ***1er paso** : en primer lugar, extraiga el archivo*
     ***2do paso**: después de eso, copie la carpeta principal del proyecto*
-
     ***3er paso**: entonces, debe pegar en xampp/htdocs/*
-
-
+    
     ***Además, ahora conectando la base de datos***
-
-
+    
     ***4to paso**: Entonces, por ahora, abra un navegador y vaya a la URL “http://localhost/phpmyadmin/”*
-
     ***5to paso**: Después de eso, haga clic en la pestaña de bases de datos*
-
     ***6to paso**: Entonces, cree una base de datos nombrando “ social ” y luego haga clic en la pestaña de importación*
-
     ***Paso 7**: Ciertamente, haga clic en buscar archivo y seleccione el archivo " social " que se encuentra dentro de la carpeta "db"*
-
     ***Paso 8**: Mientras tanto, haga clic en el botón Ir.*
 
     ***Después de crear la base de datos ,***
-
-
+    
     ***9º Paso**: Abra un navegador web y navegue por el proyecto. Por ejemplo, [ http://localhost/]*
   
   </details>
