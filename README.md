@@ -108,11 +108,10 @@ y muchos más..
   
   <details>
   <summary>¿¿Como correr??</summary>
-  
+
 Sobre todo, para ejecutar este proyecto debe tener instalado un servidor virtual, es decir , [**XAMPP**](https://www.apachefriends.org/download_success.html) en su PC. **Ultimate Facebook Clone Social Network Platform** en PHP y MySQL con código fuente se puede descargar gratis,
 
 *Siga los siguientes pasos después de iniciar Apache y MySQL en XAMPP:*
-    
     
     ***1er paso** : en primer lugar, extraiga el archivo*
     ***2do paso**: después de eso, copie la carpeta principal del proyecto*
