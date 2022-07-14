@@ -1,7 +1,7 @@
 ## 🇪🇸 Version Español de instalacion y caracteristicas 👤❤
 
 <details>
-  <summary>Click para ver</summary>
+  <summary>Haga clic para ampliar</summary>
   
 # Plataforma de red social de clones de Facebook definitiva con código fuente de PHP
   
@@ -98,7 +98,7 @@ y muchos más..
 * MySQLi.
 * Biblioteca GD.
 * mbstring.
-* rizo.
+* cURL.
 * allow_url_fopen.
 * Certificado SSL (solo se requiere para chat de video).
 
@@ -135,18 +135,153 @@ Sobre todo, para ejecutar este proyecto debe tener instalado un servidor virtual
   
   
   
+  
+  
 
 ## 🇺🇲 English version of installation and characteristics 👤❤
-
 <details>
   <summary>Click to expand</summary>
   
+# Ultimate Facebook Clone Social Network Platform with PHP Source Code
   
+***Project: Ultimate Facebook Cloning Social Network Platform Using PHP and MySQL with Source Code***
+
+***About Ultimate Facebook Clone Social Network Platform Using PHP MySQL Project Free Download***
+
+This project is called Ultimate Facebook Clone Social Network Platform using PHP MySQL Source Code. WoWonder is a PHP social media script, WoWonder is the best way to start your own social media website.
+WoWonder is fast, secure, and will be updated regularly.
+
+# Features of Ultimate Facebook Clone Social Networking Platform
+
+  
+<details>
+  <summary>Interface</summary>
+
+* **High-performance, high-level caching system** - The #1 must-have on any social networking website, The Speed! Speed ​​up your website with our caching system, turn it on and the website can handle over 1 million users!
+
+* **Wonder (new feature)** : With our new feature, the user can wonder posts, photos and videos.
+* **RTL support** : WoWonder also supports right-to-left languages.
+* **Social Login** : With WoWonder you can login via most famous social networking websites like (Facebook, Twitter, Google+, LinkedIn, Vk, Instagram).
+* **Nice and easy URL**: Users, Pages, Groups, all in one small URL!
+* **User Last Seen**: Shows the user's last seen/online status.
+* **Profile visit notification** : Receive notifications from users who visited your profile.
+* **Friends and Follow System** : WoWonder supports friend system like Facebook, follow system like Twitter.
+Home/News - Shows posts, photos, files, videos, and maps posted by friends/followers, also story filters, friends/follow suggestions, and user activity list.
+* **User Timeline** : Displays the user's profile with posts, photos, videos posted and shared by the user.
+* **Pages** : User can create unlimited pages and invite their friends to like pages.
+* **Groups** : User can create unlimited groups and invite/add their friends to their joined groups.
+* **Games** : User can play unlimited flash games.
+* **Social Video Support** : User can easily share videos from the biggest video sharing websites like Youtube, Dailymotion, Vine, Vimeo, Facebook videos and Soundcloud music
+* **Photo Album** : User can create unlimited photo albums with nice style.
+* **Cover Image** : dynamic cover for users.
+* **Profile Image** : Dynamic profile image for users.
+* **User Privacy** : Control who can message you, post to your timeline, follow you, confirm follow requests or not, be last seen, etc.
+* **User Profile Information**: Shows the user's profile information (birthday, website, gender, social networks, about, last seen, etc.).
+* **Notifications** : Receive user notifications (likes, dislikes, comments, wonders, shares, etc.)
+* **#Hashtag**s : Show trends and related topics shared by users.
+* **@Mentions** : Use @username to tag people in a status or messages.
+* **Post Publisher** : Status, Sound Cloud, YouTube, Vine, Google Maps, Videos, Files, Photos, and Emoticons.
+Delete and Edit Posts: User can delete and edit their own posts.
+* **Save Posts** - User can save posts to view later.
+* **User Events** : User can share their events like feelings, labor pains, watching, playing, listening.
+* **Recent Searches** - Whatever the user has been looking for, it will all be saved in recent searches with the ability to clear them.
+* **Post Privacy** : The user can choose the privacy of the post (only me, everyone, etc.)
+* **Like** : Like or dislike a post. See the list of people who like this.
+* **Dislike** : I dislike a post. See the list of people who don't like this.
+* **Comments & Replies** : Comment on a post, reply to a comment, view all comments on the post.
+* **Search** : Search for people, #Hashtags with our filtered search system.
+* **Reports** - Report posts for admins to review.
+* **Live Chat** : real-time live chat system, status (online, offline).
+* **Messaging** : Send and receive private messages and share files from other users.
+* **API** : Retrieve user data, user posts, search users via API.
+* **Activities** - Shows the user's latest activities (likes, shares, comments, wonders)
+* **Multiple Languages** : 4 languages ​​(Arabic, English, Russian, Turkish) with the ability to add unlimited languages.
+Verified profiles/pages.
+Fully responsive for all devices, browsers.
+Password recovery by email.
+Online user counter on the administration and home page.
+Comment automatic detector
+emoticons
+and many more..
+</details>
+  
+  
+  
+<details>
+  <summary>Admin Panel Features</summary>
+  
+* **Admin Dashboard** : Comprehensive statistics with graphs analyzing site information.
+* **General Settings** : Update the general settings of the website.
+* **Site Settings** - Update site settings such as name, title, keywords, etc.
+* **Theming system** : dynamic theme system with PHP support that allows you to change the entire design of the website.
+* **Advertising** : Display advertisements on your websites.
+* **Manage Reports** - View reported posts, mark them as safe, or delete them.
+* **Manage users** : view, edit, verify, reset password, delete users.
+* **Manage posts**: view, delete posts.
+* **Add/Edit Games** - Easily add and edit games from the admin panel.
+* **Mailing list** : With our mailing list system you can send your message to all registered users with one click!
+* **Ads** : Write, edit, delete, activate and deactivate your ads.
+* **Google Analytics** : add, edit your Google Analytics code.
+* **Ban user** : Ben's user IP in a very easy way.
+* **reCaptcha** : add, edit your reCaptcha key.
+and many more..
+
+</details>
+
+  
+  
+<details>
+  <summary>Requisitos</summary>
+
+* PHP 5.5 or higher.
+* MySQLi.
+* Library GD.
+* mbstring.
+* cURL.
+* allow_url_fopen.
+* SSL certificate (only required for video chat).
+
+  </details>
+  
+  
+  
+  <details>
+  <summary>¿¿Como correr??</summary>
+
+Above all, to run this project you must have a virtual server installed i.e. [**XAMPP**](https://www.apachefriends.org/download_success.html) on your PC. **Ultimate Facebook Clone Social Network Platform** in PHP and MySQL with source code is free to download,
+
+**Follow the following steps after starting Apache and MySQL in XAMPP:**
+    
+* **1st Step** : Firstly, extract the archive
+* **2nd Step**: After that, copy the main folder of the project
+* **3rd Step**: then, you must paste in xampp/htdocs/
+    
+* **Also now connecting the database**
+    
+* **4th Step**: So for now, open a browser and go to the URL “http://localhost/phpmyadmin/”
+* **5th Step**: After that, click on the databases tab*
+* **6th Step**: So, create a database by naming it “ social ” and then click on the import tab
+* **7th Step**: Sure, click on browse file and select the "social" file which is inside the "db" folder
+* **8th Step**: In the meantime, click the Go button.
+
+* **After creating the database,**
+    
+* **9th Step**: Open a web browser and browse the project. For example, [ http://localhost/]
+  
+  </details>
   
   </details>
 
+
+
+## Photos 📸🎬
+
+<details>
+  <summary>Click to expand</summary>
 
 <p align="center"><img width="80%" src="https://cdn.discordapp.com/attachments/968218679617663056/997268044386668616/unknown.png"/></p>
 <p align="center"><img width="80%" src="https://cdn.discordapp.com/attachments/968218679617663056/997268044747386923/unknown.png"/></p>
 <p align="center"><img width="80%" src="https://cdn.discordapp.com/attachments/968218679617663056/997268044118237234/unknown.png"/></p>
 <p align="center"><img width="80%" src="https://cdn.discordapp.com/attachments/968218679617663056/997268043807866921/unknown.png"/></p>
+
+  </details>
