@@ -14,7 +14,8 @@ WoWonder es rápido, seguro y se actualizará regularmente.
 
 # Características de la plataforma de red social Ultimate Facebook Clone
 
-# Interfaz
+<details>
+  <summary># Interfaz</summary>
 
 * **Sistema de caché de alto rendimiento y alto nivel**: lo n.º 1 que debe estar disponible en cualquier sitio web de red social, ¡The Speed! ¡Acelere su sitio web con nuestro sistema de caché, actívelo y el sitio web puede manejar más de 1 millón de usuarios!
 
@@ -62,8 +63,10 @@ Contador de usuarios en línea en la página de administración y de inicio.
 Comentar detector automático
 emoticonos
 y muchos más..
-
-# Características del panel de administración
+</details>
+  
+<details>
+  <summary># Características del panel de administración</summary>
   
 * **Panel de administración** : estadísticas completas con gráficos que analizan la información del sitio.
 * **Configuración general** : actualice la configuración general del sitio web.
@@ -80,6 +83,8 @@ y muchos más..
 * **Prohibir usuario** : IP de usuario de Ben de una manera muy fácil.
 * **reCaptcha** : agregue, edite su clave reCaptcha.
 y muchos más..
+
+</details>
 
 <details>
   <summary>Requisitos</summary>
