@@ -5,9 +5,9 @@
   
 # Plataforma de red social de clones de Facebook definitiva con código fuente de PHP
   
-# Proyecto: Plataforma de red social de clonación definitiva de Facebook usando PHP y MySQL con código fuente
+***Proyecto: Plataforma de red social de clonación definitiva de Facebook usando PHP y MySQL con código fuente***
 
-# Acerca de Ultimate Facebook Clone Social Network Platform utilizando PHP MySQL Project Descarga gratuita
+***Acerca de Ultimate Facebook Clone Social Network Platform utilizando PHP MySQL Project Descarga gratuita***
 
 Este proyecto se llama Ultimate Facebook Clone Social Network Platform utilizando PHP MySQL Source Code. WoWonder es un script PHP para redes sociales, WoWonder es la mejor manera de iniciar su propio sitio web de redes sociales.
 WoWonder es rápido, seguro y se actualizará regularmente.
@@ -125,7 +125,7 @@ Sobre todo, para ejecutar este proyecto debe tener instalado un servidor virtual
 * **7º Paso**: Ciertamente, haga clic en buscar archivo y seleccione el archivo " social " que se encuentra dentro de la carpeta "db"
 * **8º Paso**: Mientras tanto, haga clic en el botón Ir.
 
-* **Después de crear la base de datos ,***
+* **Después de crear la base de datos ,**
     
 * **9º Paso**: Abra un navegador web y navegue por el proyecto. Por ejemplo, [ http://localhost/]
   
