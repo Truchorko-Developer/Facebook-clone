@@ -14,8 +14,9 @@ WoWonder es rápido, seguro y se actualizará regularmente.
 
 # Características de la plataforma de red social Ultimate Facebook Clone
 
+  
 <details>
-  # <summary>Interfaz</summary>
+  <summary>Interfaz</summary>
 
 * **Sistema de caché de alto rendimiento y alto nivel**: lo n.º 1 que debe estar disponible en cualquier sitio web de red social, ¡The Speed! ¡Acelere su sitio web con nuestro sistema de caché, actívelo y el sitio web puede manejar más de 1 millón de usuarios!
 
@@ -65,8 +66,10 @@ emoticonos
 y muchos más..
 </details>
   
+  
+  
 <details>
-  <summary># Características del panel de administración</summary>
+  <summary>Características del panel de administración</summary>
   
 * **Panel de administración** : estadísticas completas con gráficos que analizan la información del sitio.
 * **Configuración general** : actualice la configuración general del sitio web.
@@ -86,6 +89,8 @@ y muchos más..
 
 </details>
 
+  
+  
 <details>
   <summary>Requisitos</summary>
 
@@ -97,6 +102,33 @@ y muchos más..
 * allow_url_fopen.
 * Certificado SSL (solo se requiere para chat de video).
 
+  </details>
+  
+  
+  
+  <details>
+  <summary>¿¿Como correr??</summary>
+  
+Sobre todo, para ejecutar este proyecto debe tener instalado un servidor virtual, es decir , [**XAMPP**](https://www.apachefriends.org/download_success.html) en su PC. **Ultimate Facebook Clone Social Network Platform** en PHP y MySQL con código fuente se puede descargar gratis,
+
+*Siga los siguientes pasos después de iniciar Apache y MySQL en XAMPP:*
+    
+    
+***1er paso** : en primer lugar, extraiga el archivo*
+***2do paso**: después de eso, copie la carpeta principal del proyecto*
+***3er paso**: entonces, debe pegar en xampp/htdocs/*
+
+***Además, ahora conectando la base de datos***
+
+***4to paso**: Entonces, por ahora, abra un navegador y vaya a la URL “http://localhost/phpmyadmin/”*
+***5to paso**: Después de eso, haga clic en la pestaña de bases de datos*
+***6to paso**: Entonces, cree una base de datos nombrando “ social ” y luego haga clic en la pestaña de importación*
+***Paso 7**: Ciertamente, haga clic en buscar archivo y seleccione el archivo " social " que se encuentra dentro de la carpeta "db"*
+***Paso 8**: Mientras tanto, haga clic en el botón Ir.*
+***Después de crear la base de datos ,***
+
+***9º Paso**: Abra un navegador web y navegue por el proyecto. Por ejemplo, [ http://localhost/]*
+  
   </details>
   
   </details>
