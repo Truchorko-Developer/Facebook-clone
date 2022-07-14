@@ -2,7 +2,8 @@
 
 <details>
   <summary>Click to para ver</summary>
-  # Plataforma de red social de clones de Facebook definitiva con código fuente de PHP
+  
+# Plataforma de red social de clones de Facebook definitiva con código fuente de PHP
   
 # Proyecto: Plataforma de red social de clonación definitiva de Facebook usando PHP y MySQL con código fuente
 
@@ -61,7 +62,37 @@ Contador de usuarios en línea en la página de administración y de inicio.
 Comentar detector automático
 emoticonos
 y muchos más..
+
+# Características del panel de administración
   
+* **Panel de administración** : estadísticas completas con gráficos que analizan la información del sitio.
+* **Configuración general** : actualice la configuración general del sitio web.
+* **Configuración del sitio** : actualice la configuración del sitio como nombre, título, palabras clave, etc.
+* **Sistema de temas** : sistema de temas dinámico con soporte PHP que le permite cambiar todo el diseño del sitio web.
+* **Publicidad** : Mostrar anuncios en sus sitios web.
+* **Administrar informes** : vea publicaciones denunciadas, márquelas como seguras o elimínelas.
+* **Administrar usuarios** : ver, editar, verificar, restablecer contraseña, eliminar usuarios.
+* **Administrar publicaciones**: ver, eliminar publicaciones.
+* **Agregar/editar juegos** : agregue y edite juegos de manera sencilla desde el panel de administración.
+* **Lista de correo** : ¡Con nuestro sistema de lista de correo puedes enviar tu mensaje a todos los usuarios registrados con un solo clic!
+* **Anuncios** : escriba, edite, elimine, active e inactive sus anuncios.
+* **Google Analytics** : agrega, edita tu código de Google Analytics.
+* **Prohibir usuario** : IP de usuario de Ben de una manera muy fácil.
+* **reCaptcha** : agregue, edite su clave reCaptcha.
+y muchos más..
+
+<details>
+  <summary>Requisitos</summary>
+
+* PHP 5.5 o superior.
+* MySQLi.
+* Biblioteca GD.
+* mbstring.
+* rizo.
+* allow_url_fopen.
+* Certificado SSL (solo se requiere para chat de video).
+
+  </details>
   
   </details>
 
