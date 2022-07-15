@@ -10,7 +10,7 @@
   <img src="https://hits.dwyl.com/Truchorko-Developer/PyPhisher.svg" width="140" height="28">
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Truchorko%20Developer-Aubthor%25-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Truchorko%20Developer-Author25-red?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-100%25-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 </p>
