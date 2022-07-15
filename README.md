@@ -1,3 +1,22 @@
+<h1 align="center">Facebook Clone</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.8-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Truchorko-Developer/Facebook-clone?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/Truchorko-Developer/Facebook-clone?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/Truchorko-Developer/Facebook-clone?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/Truchorko-Developer/Facebook-clone?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Truchorko-Developer/Facebook-clone?style=for-the-badge&color=blue">   
+  <img src="https://hits.dwyl.com/Truchorko-Developer/PyPhisher.svg" width="140" height="28">
+<br>
+<br>
+  <img src="https://img.shields.io/badge/Author-Truchorko-Developer-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-80%25-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
+</p>
+
+
 ## 🇪🇸 Version Español de instalacion y caracteristicas 👤❤
 
 <details>
