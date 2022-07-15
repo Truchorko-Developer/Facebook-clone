@@ -12,7 +12,7 @@
 <br>
   <img src="https://img.shields.io/badge/Author%20-Truchorko%20Developer-red?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-100%25-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/Made%20in-Colombia-yellow?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 </p>
 
 
