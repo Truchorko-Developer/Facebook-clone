@@ -16,7 +16,7 @@ WoWonder es rápido, seguro y se actualizará regularmente.
 
   
 <details>
-  <summary>Interfaz</summary>
+  <summary>Interfaz🔑</summary>
 
 * **Sistema de caché de alto rendimiento y alto nivel**: lo n.º 1 que debe estar disponible en cualquier sitio web de red social, ¡The Speed! ¡Acelere su sitio web con nuestro sistema de caché, actívelo y el sitio web puede manejar más de 1 millón de usuarios!
 
@@ -69,7 +69,7 @@ y muchos más..
   
   
 <details>
-  <summary>Características del panel de administración</summary>
+  <summary>Características del panel de administración🤖</summary>
   
 * **Panel de administración** : estadísticas completas con gráficos que analizan la información del sitio.
 * **Configuración general** : actualice la configuración general del sitio web.
@@ -92,7 +92,7 @@ y muchos más..
   
   
 <details>
-  <summary>Requisitos</summary>
+  <summary>Requisitos🛒</summary>
 
 * PHP 5.5 o superior.
 * MySQLi.
@@ -107,7 +107,7 @@ y muchos más..
   
   
   <details>
-  <summary>¿¿Como correr??</summary>
+  <summary>¿¿Como correr??📌</summary>
 
 Sobre todo, para ejecutar este proyecto debe tener instalado un servidor virtual, es decir , [**XAMPP**](https://www.apachefriends.org/download_success.html) en su PC. **Ultimate Facebook Clone Social Network Platform** en PHP y MySQL con código fuente se puede descargar gratis,
 
@@ -155,7 +155,7 @@ WoWonder is fast, secure, and will be updated regularly.
 
   
 <details>
-  <summary>Interface</summary>
+  <summary>Interface🔑</summary>
 
 * **High-performance, high-level caching system** - The #1 must-have on any social networking website, The Speed! Speed ​​up your website with our caching system, turn it on and the website can handle over 1 million users!
 
@@ -208,7 +208,7 @@ and many more..
   
   
 <details>
-  <summary>Admin Panel Features</summary>
+  <summary>Admin Panel Features🤖</summary>
   
 * **Admin Dashboard** : Comprehensive statistics with graphs analyzing site information.
 * **General Settings** : Update the general settings of the website.
@@ -231,7 +231,7 @@ and many more..
   
   
 <details>
-  <summary>Requisitos</summary>
+  <summary>Requirements🛒</summary>
 
 * PHP 5.5 or higher.
 * MySQLi.
@@ -246,7 +246,7 @@ and many more..
   
   
   <details>
-  <summary>¿¿Como correr??</summary>
+  <summary>How to run?📌</summary>
 
 Above all, to run this project you must have a virtual server installed i.e. [**XAMPP**](https://www.apachefriends.org/download_success.html) on your PC. **Ultimate Facebook Clone Social Network Platform** in PHP and MySQL with source code is free to download,
 
