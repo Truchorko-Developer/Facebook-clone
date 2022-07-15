@@ -312,10 +312,10 @@ Above all, to run this project you must have a virtual server installed i.e. [**
   
   # Español
   
-  Si logramos llegar a los 800 miembros en el [**Discord,**](https://team.arcades.ga/discord) **Facebook Clone** sera publicado ya somos 700 ya casi sera liberado [**Suscribete**](https://youbute.com/TeamArcades) para ver como fue su instalacion [**Video de instalacion**](https://www.youtube.com/watch?v=XrThynqXn0o) 
+  Si logramos llegar a los **800** miembros en el [**Discord,**](https://team.arcades.ga/discord) **Facebook Clone** sera publicado ya somos **700** ya casi sera liberado [**Suscribete**](https://youbute.com/TeamArcades) para ver como fue su instalacion [**Video de instalacion**](https://www.youtube.com/watch?v=XrThynqXn0o) 
   
   # English
   
-  If we manage to reach 800 members in the [**Discord,**](https://team.arcades.ga/discord) **Facebook Clone** will be published, we are already 700, it will almost be released [**Subscribe**](https://youbute.com/TeamArcades) to see how it was installed [**Installation video**](https://www.youtube.com/watch?v=XrThynqXn0o) 
+  If we manage to reach **800** members in the [**Discord,**](https://team.arcades.ga/discord) **Facebook Clone** will be published, we are already **700**, it will almost be released [**Subscribe**](https://youbute.com/TeamArcades) to see how it was installed [**Installation video**](https://www.youtube.com/watch?v=XrThynqXn0o) 
   
   </details>
